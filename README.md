@@ -13,7 +13,7 @@
 ## **I'm a Software Architect**
 
 - 🎯 **I’m currently working on**: Software Architecture, Cloud Automation, Developer Tools, a book on Developer to Architect transition
-- 💬 **Ask me about**: Clean Code, Design Patterns, .NET, SQL and NoSQL Databases, Software Architecture
+- 💬 **Ask me about**: Clean Code, Design Patterns, .NET, SQL & NoSQL Databases, AWS, Software Architecture, Automation & Tooling, Cloud Migration, Database Migration, Contact Center Technology, Conversational AI
 - 📫 **How to reach me**: Reach out and connect with me on LinkedIn or send an email to shameel at shameel.net ! 👆
 
 <hr/>
